@@ -1,2 +1,8 @@
 # cs224w-Solution-2021
-my colab solution of cs224w 
+I would like to share my colab solutions for Stanford class, CS224w :Machine Learning with Graphs.
+
+It's a very instructive course for those who start learning ML on graphs .
+
+If there are any errors ,please feel free to correct me ;)
+
+link : http://web.stanford.edu/class/cs224w/
