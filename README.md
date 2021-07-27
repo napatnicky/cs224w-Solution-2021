@@ -3,6 +3,6 @@ I would like to share my colab solutions for Stanford class, CS224w :Machine Lea
 
 It's a very instructive course for those who start learning ML on graphs .
 
-If there are any errors ,please feel free to correct me ;)
+If there are any errors ,please feel free to let me know ;)
 
 link : http://web.stanford.edu/class/cs224w/
